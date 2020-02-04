@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 374c7a61a7bb500438f754079bb317aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anteD
+    100002: anteD_end
+    100004: anteE
+    100006: anteE_end
+    100008: Armature
+    100010: Bone.004
+    100012: Bone.005
+    100014: Bone.010
+    100016: Bone.011
+    100018: Bone.018
+    100020: Bone.018_end
+    100022: Bone.019
+    100024: Bone.019_end
+    100026: bracoD
+    100028: bracoE
+    100030: cab
+    100032: cab_end
+    100034: Cube.011
+    100036: pd
+    100038: pe
+    100040: ped
+    100042: pee
+    100044: pesc
+    100046: //RootNode
+    100048: ppd
+    100050: ppe
+    100052: tronco
+    100054: tronco2
+    400000: anteD
+    400002: anteD_end
+    400004: anteE
+    400006: anteE_end
+    400008: Armature
+    400010: Bone.004
+    400012: Bone.005
+    400014: Bone.010
+    400016: Bone.011
+    400018: Bone.018
+    400020: Bone.018_end
+    400022: Bone.019
+    400024: Bone.019_end
+    400026: bracoD
+    400028: bracoE
+    400030: cab
+    400032: cab_end
+    400034: Cube.011
+    400036: pd
+    400038: pe
+    400040: ped
+    400042: pee
+    400044: pesc
+    400046: //RootNode
+    400048: ppd
+    400050: ppe
+    400052: tronco
+    400054: tronco2
+    2100000: Material.calca
+    2100002: Material.camisa
+    2100004: Material.pele
+    2100006: Material.sapato
+    4300000: Cube.011
+    7400000: Armature|Action.carimb
+    7400002: Armature|alavanca.001|alavanca.001|Action.alavanca.001|alavanca.001|Acti
+    7400004: Armature|alavanca.001|alavanca.001|Action.alavanca|alavanca.001|Action.a
+    7400006: Armature|alavanca.001|alavanca.001|Action.carimb.001|alavanca.001|Action
+    7400008: Armature|alavanca.001|alavanca.001|Action.carimb|alavanca.001|Action.car
+    7400010: Armature|alavanca.001|alavanca.001|Cube.005Action.001|alavanca.001|Cube.
+    7400012: Armature|alavanca.001|alavanca.001|Cube.005Action|alavanca.001|Cube.005A
+    7400014: Armature|alavanca.001|alavanca.001|Cylinder.010Action.001|alavanca.001|C
+    7400016: Armature|alavanca.001|alavanca.001|Cylinder.010Action|alavanca.001|Cylin
+    7400018: Armature|andar
+    7400020: Armature|correr
+    7400022: Armature|Cube.005Action
+    7400024: Armature|Cylinder.017|Cylinder.017|Action.alavanca.001|Cylinder.017|Acti
+    7400026: Armature|Cylinder.017|Cylinder.017|Action.alavanca|Cylinder.017|Action.a
+    7400028: Armature|Cylinder.017|Cylinder.017|Action.carimb.001|Cylinder.017|Action
+    7400030: Armature|Cylinder.017|Cylinder.017|Action.carimb|Cylinder.017|Action.car
+    7400032: Armature|Cylinder.017|Cylinder.017|Cube.005Action.001|Cylinder.017|Cube.
+    7400034: Armature|Cylinder.017|Cylinder.017|Cube.005Action|Cylinder.017|Cube.005A
+    7400036: Armature|Cylinder.017|Cylinder.017|Cylinder.010Action.001|Cylinder.017|C
+    7400038: Armature|Cylinder.017|Cylinder.017|Cylinder.010Action|Cylinder.017|Cylin
+    7400040: Armature|empilhadeira
+    7400042: Armature|empurrar
+    7400044: Armature|parado
+    9500000: //RootNode
+    13700000: Cube.011
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
